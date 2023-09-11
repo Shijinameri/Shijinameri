@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Your Name 
 
-- :school: I'm a student at **XYZ** in this city.
+- :school: I'm a student at **ICAR CMFRI** Kochi.
 - 🔭 I’m currently working on  **molecular phylogenetics and biogeography of Indo Pacific species**
 - :game: When I am not working, I like to
 - At the Hackweek, ask me about <some areas of expertise>
